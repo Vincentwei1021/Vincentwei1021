@@ -5,6 +5,8 @@
 
 <a href="https://github.com/Vincentwei1021?tab=repositories"><img src="https://img.shields.io/github/stars/Vincentwei1021?style=for-the-badge&amp;logo=github&amp;label=stars&amp;color=d4b064" alt="total stars"></a> <a href="https://github.com/Vincentwei1021?tab=followers"><img src="https://img.shields.io/github/followers/Vincentwei1021?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a> <a href="https://x.com/VincentWei93"><img src="https://img.shields.io/badge/VincentWei93-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X @VincentWei93"></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAK1pkjBxilk2Oi_9h_vFyD-lTAu9CTlvhmOtkosDvvxg"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="抖音 Douyin"></a> <a href="https://xhslink.cn/m/At9iP2d5C1V"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&amp;logo=xiaohongshu&amp;logoColor=white" alt="小红书 Red Note"></a>
 
+[☕ 支持作者 / Support my work](#support)
+
 <img src="assets/divider-shotcraft.svg" width="100%" alt="">
 
 ## 🎬 video-shotcraft
@@ -52,6 +54,24 @@
 
 <a href="https://vincentwei1021.github.io/mg-styles-15/"><img src="https://img.shields.io/badge/▶_Watch_the_films-看成片-2f5bd8?style=for-the-badge" alt="Watch the films"></a>
 <a href="https://github.com/Vincentwei1021/mg-styles-15"><img src="https://img.shields.io/github/stars/Vincentwei1021/mg-styles-15?style=for-the-badge&amp;logo=github&amp;label=mg-styles-15&amp;color=e2452f" alt="mg-styles-15 on GitHub"></a>
+
+<a id="support"></a>
+
+## ☕ 支持作者 / Support my work
+
+如果这些项目帮到了你，欢迎请我喝杯咖啡，支持后续开发与维护。
+
+If my projects helped you, you're welcome to buy me a coffee and support their continued development and maintenance.
+
+<img src="assets/wechat-sponsor.jpg" alt="微信赞助收款码 / WeChat sponsorship QR code" width="280">
+
+微信扫一扫，金额随意。手机查看时，可保存图片，再在微信「扫一扫」中从相册选择。
+
+Scan with WeChat; any amount is appreciated. On a phone, save the image and select it from your album in WeChat's Scan feature.
+
+赞助完全自愿，Star、反馈和分享同样感谢。赞助不改变各项目现有的许可条款。
+
+Sponsorship is entirely optional. Stars, feedback, and sharing are just as welcome. Sponsorship does not change any project's license terms.
 
 <img src="assets/divider-end.svg" width="100%" alt="">
 
