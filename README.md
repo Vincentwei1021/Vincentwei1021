@@ -69,6 +69,12 @@ If my projects helped you, you're welcome to buy me a coffee and support their c
 
 Scan with WeChat; any amount is appreciated. On a phone, save the image and select it from your album in WeChat's Scan feature.
 
+海外用户也可以通过 Ko-fi 用银行卡或 PayPal 一次性支持。
+
+Outside mainland China? You can also leave a one-time tip on Ko-fi with a card or PayPal.
+
+<a href="https://ko-fi.com/vincentwei"><img src="https://img.shields.io/badge/%E5%9C%A8%20Ko--fi%20%E6%94%AF%E6%8C%81%20%2F%20Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="在 Ko-fi 支持 / Support on Ko-fi" height="32"></a>
+
 赞助完全自愿，Star、反馈和分享同样感谢。赞助不改变各项目现有的许可条款。
 
 Sponsorship is entirely optional. Stars, feedback, and sharing are just as welcome. Sponsorship does not change any project's license terms.
