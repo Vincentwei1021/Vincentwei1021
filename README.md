@@ -63,6 +63,12 @@
 
 If my projects helped you, you're welcome to buy me a coffee and support their continued development and maintenance.
 
+<a href="https://ko-fi.com/vincentwei"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="在 Ko-fi 请我喝杯咖啡 / Buy me a coffee on Ko-fi" height="40"></a>
+
+海外用户可通过 Ko-fi 用银行卡或 PayPal 一次性支持；国内用户可用下方微信。
+
+Outside mainland China? Leave a one-time tip on Ko-fi with a card or PayPal. In mainland China, use WeChat below.
+
 <img src="assets/wechat-sponsor.jpg" alt="微信赞助收款码 / WeChat sponsorship QR code" width="280">
 
 微信扫一扫，金额随意。手机查看时，可保存图片，再在微信「扫一扫」中从相册选择。
