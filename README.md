@@ -5,9 +5,7 @@
 
 <a href="https://github.com/Vincentwei1021?tab=repositories"><img src="https://img.shields.io/github/stars/Vincentwei1021?style=for-the-badge&amp;logo=github&amp;label=stars&amp;color=d4b064" alt="total stars"></a> <a href="https://github.com/Vincentwei1021?tab=followers"><img src="https://img.shields.io/github/followers/Vincentwei1021?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a> <a href="https://x.com/VincentWei93"><img src="https://img.shields.io/badge/VincentWei93-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X @VincentWei93"></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAK1pkjBxilk2Oi_9h_vFyD-lTAu9CTlvhmOtkosDvvxg"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="抖音 Douyin"></a> <a href="https://xhslink.cn/m/At9iP2d5C1V"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&amp;logo=xiaohongshu&amp;logoColor=white" alt="小红书 Red Note"></a>
 
-<a href="#wechat-community"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E7%BE%A4%20%2F%20WeChat%20community-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white" alt="微信群 / WeChat community" height="32"></a>
-
-<a href="#support"><img src="https://img.shields.io/badge/%E2%98%95%20%E6%94%AF%E6%8C%81%E4%BD%9C%E8%80%85%20%2F%20Support%20author-16803C?style=for-the-badge" alt="☕ 支持作者 / Support author" height="32"></a>
+<a href="#support"><img src="https://img.shields.io/badge/%E2%98%95%20%E6%94%AF%E6%8C%81%E4%BD%9C%E8%80%85%20%2F%20Support%20author-16803C?style=for-the-badge" alt="☕ 支持作者 / Support author" height="32"></a> <a href="#wechat-community"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E7%BE%A4%20%2F%20WeChat%20community-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white" alt="微信群 / WeChat community" height="32"></a>
 
 <img src="assets/divider-shotcraft.svg" width="100%" alt="">
 
