@@ -5,7 +5,7 @@
 
 <a href="https://github.com/Vincentwei1021?tab=repositories"><img src="https://img.shields.io/github/stars/Vincentwei1021?style=for-the-badge&amp;logo=github&amp;label=stars&amp;color=d4b064" alt="total stars"></a> <a href="https://github.com/Vincentwei1021?tab=followers"><img src="https://img.shields.io/github/followers/Vincentwei1021?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a> <a href="https://x.com/VincentWei93"><img src="https://img.shields.io/badge/VincentWei93-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X @VincentWei93"></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAK1pkjBxilk2Oi_9h_vFyD-lTAu9CTlvhmOtkosDvvxg"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="抖音 Douyin"></a> <a href="https://xhslink.cn/m/At9iP2d5C1V"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&amp;logo=xiaohongshu&amp;logoColor=white" alt="小红书 Red Note"></a>
 
-<a href="#support"><img src="https://img.shields.io/badge/%E2%98%95%20%E6%94%AF%E6%8C%81%E4%BD%9C%E8%80%85%20%2F%20Support%20author-16803C?style=for-the-badge" alt="☕ 支持作者 / Support author" height="32"></a>
+<a href="#support"><img src="https://img.shields.io/badge/%E2%98%95%20%E6%94%AF%E6%8C%81%E4%BD%9C%E8%80%85%20%2F%20Support%20author-16803C?style=for-the-badge" alt="☕ 支持作者 / Support author" height="32"></a> <a href="#wechat-community"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E7%BE%A4%20%2F%20WeChat%20community-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white" alt="微信群 / WeChat community" height="32"></a>
 
 <img src="assets/divider-shotcraft.svg" width="100%" alt="">
 
@@ -82,3 +82,21 @@ Sponsorship is entirely optional. Stars, feedback, and sharing are just as welco
 <img src="assets/divider-end.svg" width="100%" alt="">
 
 <a href="https://x.com/VincentWei93"><img src="assets/footer.svg" width="100%" alt="觉得有用的话，一颗 star 就是对我最大的鼓励，谢谢你来过。If something here sparks an idea, a star means a lot. Thanks for stopping by. X @VincentWei93"></a>
+
+<a id="wechat-community"></a>
+
+## 💬 微信群 / WeChat community
+
+欢迎加入「Vincent 的 AI 交流群 1」，一起交流 AI 应用、编程和视频创作。
+
+Join “Vincent 的 AI 交流群 1” to chat about AI applications, coding, and video creation.
+
+<a href="assets/wechat-group.jpg"><img src="assets/wechat-group.jpg" alt="Vincent 的 AI 交流群 1 微信入群二维码 / Vincent’s AI WeChat community QR code" width="400"></a>
+
+用微信扫一扫加入。手机查看时，可保存图片，再在微信「扫一扫」中从相册选择。
+
+Scan with WeChat to join. On a phone, save the image, then open WeChat’s Scan feature and select it from your album.
+
+此二维码在 **2026-11-25 前**有效，以微信提示为准。若已失效，可[通过 X 联系 Vincent](https://x.com/VincentWei93)获取最新入群方式。
+
+This QR code is valid before **2026-11-25**, subject to WeChat’s notice. If it has expired, [contact Vincent on X](https://x.com/VincentWei93) for the latest way to join.
