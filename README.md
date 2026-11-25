@@ -87,16 +87,16 @@ Sponsorship is entirely optional. Stars, feedback, and sharing are just as welco
 
 ## 💬 微信群 / WeChat community
 
-欢迎加入「Vincent 的 AI 交流群 4」，一起交流 AI 应用、编程和视频创作。
+欢迎加入「Vincent 的 AI 交流群 5」，一起交流 AI 应用、编程和视频创作。
 
-Join “Vincent 的 AI 交流群 4” to chat about AI applications, coding, and video creation.
+Join “Vincent 的 AI 交流群 5” to chat about AI applications, coding, and video creation.
 
-<a href="assets/wechat-group.jpg?v=4"><img src="assets/wechat-group.jpg?v=4" alt="Vincent 的 AI 交流群 4 微信入群二维码 / Vincent’s AI WeChat community QR code" width="400"></a>
+<a href="assets/wechat-group.png?v=5"><img src="assets/wechat-group.png?v=5" alt="Vincent 的 AI 交流群 5 微信入群二维码 / Vincent’s AI WeChat community QR code" width="400"></a>
 
 用微信扫一扫加入。手机查看时，可保存图片，再在微信「扫一扫」中从相册选择。
 
 Scan with WeChat to join. On a phone, save the image, then open WeChat’s Scan feature and select it from your album.
 
-此二维码在 **2026-11-28 前**有效，以微信提示为准。若已失效，可[通过 X 联系 Vincent](https://x.com/VincentWei93)获取最新入群方式。
+此二维码在 **2026-12-02 前**有效，以微信提示为准。若已失效，可[通过 X 联系 Vincent](https://x.com/VincentWei93)获取最新入群方式。
 
-This QR code is valid before **2026-11-28**, subject to WeChat’s notice. If it has expired, [contact Vincent on X](https://x.com/VincentWei93) for the latest way to join.
+This QR code is valid before **2026-12-02**, subject to WeChat’s notice. If it has expired, [contact Vincent on X](https://x.com/VincentWei93) for the latest way to join.
